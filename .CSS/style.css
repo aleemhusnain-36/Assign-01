@@ -1,0 +1,18 @@
+.navbar,
+footer{
+    background-color: #403d39;
+    color: white;
+}
+.herosection,
+.cardsection,
+.contactsection{
+
+    background-color: #403d39;
+    color: white;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    gap: 20px;
+}
